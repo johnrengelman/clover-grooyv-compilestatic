@@ -1,0 +1,2 @@
+clover-grooyv-compilestatic
+===========================
